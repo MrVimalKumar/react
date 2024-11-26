@@ -1,16 +1,3 @@
-/* React.createElement() => returns Object
-  <div id="parent">
-    <div id="child">
-      <h1> I am H1 Tag</h1>
-      <h2> I am H2 Tag</h2>
-    </div>
-    <div id="child">
-      <h1> I am H1 Tag</h1>
-      <h2> I am H2 Tag</h2>
-    </div>
-  </div>
-*/
-
 import React from "react";
 import ReactDOM from "react-dom/client";
 
